@@ -1,2 +1,2 @@
 # Adv-DDOS
-Simple python dos script.
+Simple python dos script
